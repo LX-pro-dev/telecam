@@ -1,24 +1,22 @@
-# README
+# Instagram like by Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# What this project is about ?
+  * Design System from Craft
+  * Understanding MVC (Model — View — Controller) architecture
+  * Model: Active Record migration, validation, callback,   association, and query interface
+  * View: Layout, Partial and Form helpers
+  * Controller: Actions, Strong Parameters
+  * Rails Routing
+  * Active Storage to upload files
+  * Using Bootstrap, Devise, Kaminari gem in Rails application
 
-Things you may want to cover:
+# Tech Stacks
+  * Back-end:
+     - Ruby 2.7
+     - Rails 6.1.x
+     - Database: Postgres 9.6
+     - Gems: Devise, Kaminari, Bootstrap
+  * Front-end:
+     - HTML, CSS, Javascript, jQuery
+     - Bootstrap (3.x or 4.x)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
